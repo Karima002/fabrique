@@ -53,13 +53,39 @@ work in any major desktop browser.
 
 
 ## Resources
-
-<!-- [Backlog](https://github.com/orgs/fdnd-agency/projects/38/) -->
-
 [Design](https://github.com/fdnd-agency/fabrique/tree/main/design)
 
 [Content](https://github.com/fdnd-agency/fabrique/tree/main/content)
 
-## Resources Semester 2
+**API Endpoints**  
+* https://fdnd-agency.directus.app/items/fabrique_art_objects
+* https://fdnd-agency.directus.app/items/fabrique_artist
+* https://fdnd-agency.directus.app/items/fabrique_museum
+* https://fdnd-agency.directus.app/items/fabrique_style
+* https://fdnd-agency.directus.app/items/fabrique_location
+* https://fdnd-agency.directus.app/items/fabrique_materials
+* https://fdnd-agency.directus.app/items/fabrique_techniques
 
-[API](https://fdnd-agency.directus.app/items/fabrique_art_objects)
+## Studentenwerk
+
+**Sprint 8: Server-Side Rendering** 
+
+|  |  |  | 
+| :--------------- | :--------------- | :--------------- |
+| Karima | [repository](...) | [live site](...) 
+| Fatima H | [repository](...) | [live site](...) 
+| Tessa | [repository](...) | [live site](...) 
+| Safae | [repository](...) | [live site](...) 
+| Renzo	| [repository](...) | [live site](...) 
+
+**Sprint 5: Fix The Flow** 
+
+|  |  |  | 
+| :--------------- | :--------------- | :--------------- |
+| Fatima Zora	| [repository](https://github.com/FatimaZelay/fix-the-flow-interactive-website) 	| [live site](https://fatimazelay.github.io/fix-the-flow-interactive-website/) 
+| Iris	| [repository](https://github.com/irisvw/fix-the-flow-interactive-website) 	| [live site](https://irisvw.github.io/fix-the-flow-interactive-website/) 
+| Luc| [repository](https://github.com/DeBosOs/fix-the-flow-interactive-website) 	| [live site](https://debosos.github.io/fix-the-flow-interactive-website/) 
+| Süleyman	| [repository](https://github.com/SuleymanHG/fix-the-flow-interactive-website)	| [live site](https://suleymanhg.github.io/fix-the-flow-interactive-website/) 
+| Yamen	| [repository](https://github.com/yamenAl/fix-the-flow-interactive-website)	| [live site](https://yamenal.github.io/fix-the-flow-interactive-website/qatar-museums/) 
+
+
