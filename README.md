@@ -72,7 +72,7 @@ work in any major desktop browser.
 
 |  |  |  | 
 | :--------------- | :--------------- | :--------------- |
-| Karima | [repository](...) | [live site](...) 
+| Karima | [repository](https://github.com/Karima002/server-side-rendering-server-side-website-) | [live site](https://server-side-rendering-server-side-website-m3f8.onrender.com/) 
 | Fatima H | [repository](...) | [live site](...) 
 | Tessa | [repository](...) | [live site](...) 
 | Safae | [repository](...) | [live site](...) 
